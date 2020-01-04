@@ -1,1 +1,1 @@
-# Calculate-mean-and-concatenate-string-Java-
+# Calculate Mean and Concatenate String (Java)
